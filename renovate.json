@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "assignees": ["mnao305"],
+  "reviewers": ["mnao305"],
+  "minor": {
+    "groupName": "all dependencies"
+  }
+}

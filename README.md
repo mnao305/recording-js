@@ -1,2 +1,2 @@
 # recording-js
-MediaStream Recording API wrapper library.
+This library is useful for browser recording in JS.
